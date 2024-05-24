@@ -1,3 +1,27 @@
+/*
+ * bg: #090B0C 
+ * fg: #C7D4DB
+ * --------------
+ * Primary colors
+ * 0: #111415 
+ * 1: #191D1F 
+ * 2: #292F31
+ * 3: #3F474B
+ * 4: #5B656B 
+ * 5: #7D8A91
+ * 6: #A4B5E
+ * 7: #DCE4E8 
+ * -------------
+ * Secondary colors
+ * 8: #8EA75D
+ * 9: #EFA75D
+ * 10: #6F9CB0
+ * 11: #83985A 
+ * 12: #B78E6C
+ * 13: #CF9F77
+ * 14: #AFC785
+ * 15: #89C7E1*/
+
 #head {
-	background-color: blue;
+	background-color: #191D1F;
 }
