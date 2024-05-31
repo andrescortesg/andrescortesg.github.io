@@ -22,12 +22,22 @@
  * 14: #AFC785
  * 15: #89C7E1
  * */
-
+body {
+	background-color: #090B0C;
+	color: #C7D4DB;
+	font-family: sans-serif;
+}
 .head {
 	background-color: #191D1F;
 	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
+	padding-left: 5px;
+	text-align: center;
 }
 
-
+.content {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
